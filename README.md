@@ -1,2 +1,2 @@
-# Amazon-Year-wise-sales-dashboard
-Amazon 4 Years dataset 
+# Amazon Globle Super Store (End to End Project)
+Amazon-Year-wise-sales-dashboard
