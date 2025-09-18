@@ -8,3 +8,9 @@ The purpose of Amazon Global SuperStore Dashboard is a visually engaging and ana
 The Dashboard was build using the following tools and technologies:
 Power BI Desktop - Main data visualization platform used for report creation.
 Power Query - Data transformation and cleaning and preparing the data.
+DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
+Data Modeling - Relationships established among tables.
+
+
+
+https://github.com/Hafiz-Rehman123/Amazon-Year-wise-sales-dashboard/blob/main/Screenshot%20(3).png
