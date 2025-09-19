@@ -13,4 +13,4 @@ Data Modeling - Relationships established among tables.
 
 
 
-https://github.com/Hafiz-Rehman123/Amazon-Year-wise-sales-dashboard/blob/main/Screenshot%20(3).png
+[Dashboard Preview] (https://github.com/Hafiz-Rehman123/Amazon-Year-wise-sales-dashboard/blob/main/Screenshot%20(3).png)
