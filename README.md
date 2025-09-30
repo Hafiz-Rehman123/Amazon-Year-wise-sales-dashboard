@@ -1,16 +1,44 @@
-# Amazon Global SuperStore (End to End Project)
-Amazon-Year-wise-sales-data-Analysis-dashboard 
-A dynamic, interactive data visualization tool built to explore Amazon Global SuperStore dataset(2012-2015) downloaded from kagal.
-<h3> Description / Purpose</h3>
-The purpose of Amazon Global SuperStore Dashboard is a visually engaging and analytical Poweer BI report designed to help users to explore and compare four years of Amazon SuperStore sales recard over different counteries. The dashboard focuses on KPI, Return, Product Unit and Sales Projection. More over sum of sales by Market, Sum of Profit by customer Name, Top 5 profitable products and 5 lowest Profitable Products.
+# 📊 Amazon Global SuperStore Dashboard (Power BI Project)
 
-<h3>Tech Satack</h3>
-The Dashboard was build using the following tools and technologies:
-Power BI Desktop - Main data visualization platform used for report creation.
-Power Query - Data transformation and cleaning and preparing the data.
-DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
-Data Modeling - Relationships established among tables.
+## 🔹 Project Line / Headline  
+Amazon Global SuperStore Sales & Profit Analysis Dashboard  
 
+## 🔹 Short Description / Purpose  
+This project analyzes **Amazon Global SuperStore sales data** to track **returns, KPIs, sales performance, and profitability**.  
+The dashboard provides insights into **customer segments, markets, product-level profitability, and regional sales distribution**, enabling businesses to make data-driven decisions.  
 
+## 🔹 Tech Stack  
+- **Power BI** → Interactive dashboards & data visualization  
+- **Excel / CSV Dataset** → Data source  
+- **DAX** → Measures, calculated fields, and KPIs  
 
-[Dashboard Preview] (https://github.com/Hafiz-Rehman123/Amazon-Year-wise-sales-dashboard/blob/main/Screenshot%20(3).png)
+## 🔹 Data Source  
+- Amazon Global SuperStore dataset containing:  
+  - Orders, Returns, Customers, and Product details  
+  - Region-wise sales performance  
+  - Profitability metrics across markets and products  
+
+## 🔹 Feature Highlights  
+- **Key KPIs**: Returns, Sales Projection, Product Units, and Total KPI (178K)  
+- **Sales by Segment**: Consumer, Corporate, and Home Office breakdown  
+- **Sales by Market**: Insights into Asia Pacific, Europe, USCA, LATAM, and Africa  
+- **Geographical Insights**: Global sales distribution on a map (country & region)  
+- **Profitability Analysis**:  
+  - Top 5 Profitable Products  
+  - Bottom 5 Loss-making Products  
+  - Sum of Profit by Customer Name  
+
+## 🔹 Business Impact  
+- Identifies **most profitable products and customer segments**  
+- Detects **loss-making products** to improve inventory and pricing strategies  
+- Provides **regional and market-level insights** for targeted decision-making  
+- Helps Amazon’s business units **optimize sales and reduce return rates**  
+
+## 🔹 Screenshot Demo  
+
+### 📊 Dashboard  
+![Amazon Dashboard](Screenshot%20(3).png)  
+
+---
+✨ Developed with **Power BI** to transform raw sales data into actionable business insights.
+
